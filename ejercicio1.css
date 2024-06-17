@@ -1,0 +1,30 @@
+
+body {
+    background-color: rgb(176, 140, 210);
+}
+
+.caja {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.cuadrado_1 {
+    background-color: rgb(6, 153, 104);
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+}
+
+.cuadrado_2 {
+    background-color: rgb(13, 124, 221);
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+
+}.cuadrado_3 {
+    background-color: rgb(221, 84, 25);
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+}
